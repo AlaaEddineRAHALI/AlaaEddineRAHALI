@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Alaa Eddine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+<h3 align="center">
+⬇️ Check out my links ! ⬇️
+</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa-eddine-rahali/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
