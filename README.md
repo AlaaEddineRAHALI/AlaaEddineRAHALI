@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
+<h3 align="center">A Junior Computer Science, I Am  A Passinate Devlopper</h3>
 
 ## Tools and Technologies
 
