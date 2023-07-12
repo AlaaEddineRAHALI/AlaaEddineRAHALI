@@ -15,17 +15,23 @@
 </p>
 <h3 align="center">A Junior Computer Science, I Am  A Passinate Devlopper</h3>
 
+## Mes projets : :computer:
+
+Quoi de mieux que la pratique pour consolider ses connaissances et compétences ?
+**Actiively**
+**Portfolio**
+**O'Syndic**
+**O'Syndic** Wordpress
+
 ## Tools and Technologies
 
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ### Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ### Frameworks and libraries
 
@@ -38,22 +44,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-
 ### Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ### Environment
 
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
-
-
-
