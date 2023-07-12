@@ -48,7 +48,7 @@ Les technologies utilisées pour ce projet comprennent :
 
 [O'Syndic : V1](..)
 
-[![Video](file:O'syndic V1.mkv)
+[Video](file:O'syndic V1.mkv)
 
 ## Tools and Technologies
 
