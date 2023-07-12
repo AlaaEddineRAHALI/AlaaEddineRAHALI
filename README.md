@@ -18,9 +18,13 @@
 ## Mes projets : :computer:
 
 Quoi de mieux que la pratique pour consolider ses connaissances et compétences ?
+
 **Actiively**
+
 **Portfolio**
+
 **O'Syndic**
+
 **O'Syndic** Wordpress
 
 ## Tools and Technologies
