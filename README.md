@@ -19,15 +19,15 @@
 
 Quoi de mieux que la pratique pour consolider ses connaissances et compétences ?
 
-## **Actiively:**
+## **Actiively :**
 
-## **Portfolio:**
+## **Portfolio :**
 
-## **O'Syndic:** Version Wordpress
+## **O'Syndic :** Version Wordpress
 
 En cours
 
-## **O'Syndic:**
+## **O'Syndic :**
 
 O'Syndic est un projet personnel sur lequel je travaille actuellement. Il s’agit d’un site vitrine dédié aux syndics de copropriétés. J'ai développé ce site en utilisant **Vite.js**, La création de ce site est divisée en deux versions.
 
