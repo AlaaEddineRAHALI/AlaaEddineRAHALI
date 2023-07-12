@@ -19,13 +19,13 @@
 
 Quoi de mieux que la pratique pour consolider ses connaissances et compétences ?
 
-**Actiively**
+## **Actiively**
 
-**Portfolio**
+## **Portfolio**
 
 ## **O'Syndic**
 
-est un projet personnel sur lequel je travaille actuellement. Il s’agit d’un site vitrine dédié aux syndics de copropriétés. J'ai développé ce site en utilisant **Vite.js**, La création de ce site est divisée en deux versions.
+O'Syndic est un projet personnel sur lequel je travaille actuellement. Il s’agit d’un site vitrine dédié aux syndics de copropriétés. J'ai développé ce site en utilisant **Vite.js**, La création de ce site est divisée en deux versions.
 
 **V1-** La première version concerne la création des **landing pages** et la connexion aux **API de découpage administratif** afin de rechercher et localiser les communes. Cette partie m'a permis de perfectionner mes connaissances dans la création des formulaires en utilisant **Formik** et **les schémas de validation YUP**.
 
@@ -43,7 +43,10 @@ Les technologies utilisées pour ce projet comprennent :
 ##### VIDEO :
 
 [O'Syndic](..)
-**O'Syndic** Wordpress
+
+## **O'Syndic** en utilisant Wordpress
+
+En cours
 
 ## Tools and Technologies
 
