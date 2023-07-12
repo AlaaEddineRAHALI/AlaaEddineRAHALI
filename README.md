@@ -48,8 +48,6 @@ Les technologies utilisées pour ce projet comprennent :
 
 [O'Syndic : V1](https://player.vimeo.com/video/844603359?h=7de1749412)
 
-<a href="https://player.vimeo.com/video/844603359?h=7de1749412" target="_blank">O'Syndic : V1</a>
-
 ## Tools and Technologies
 
 ### Languages
