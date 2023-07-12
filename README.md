@@ -46,7 +46,7 @@ Les technologies utilisées pour ce projet comprennent :
 
 ##### VIDEO :
 
-[O'Syndic : V1](Syndic_pub.m4v)
+[O'Syndic : V1](<[label](.gitattributes)>)
 [O'Syndic : V1](https://player.vimeo.com/video/844603359?h=7de1749412)
 
 ## Tools and Technologies
