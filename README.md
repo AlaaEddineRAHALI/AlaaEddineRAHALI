@@ -44,7 +44,9 @@ Les technologies utilisées pour ce projet comprennent :
 - **SQL** pour mettre en place des requetes.
 - **MySQL Database** pour stcoker la data saisie par les utilisateurs.
 
-##### VIDEO : [O'Syndic : V1](Syndic_pub.mp4)
+##### VIDEO :
+
+[O'Syndic : V1](Syndic_pub.mp4)
 
 ## Tools and Technologies
 
