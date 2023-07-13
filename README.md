@@ -1,10 +1,8 @@
 <h1 align="center">Bienvenue sur mon profil GitHub !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center">
-Je m'appelle Alaa Eddine</h2>
-<h3 align="center">Ingénieur Consultant | Développeur FullStack Javascript / React - UI/UX</h3>
+
+<h3 align="center">Je m'appelle Alaa Eddine <br>Ingénieur Consultant | Développeur FullStack Javascript / React - UI/UX</h3>
 <h3 align="center">
-⬇️ 
-N'hésitez pas à consulter mon profil LinkedIn et à me contacter⬇️
+⬇️ N'hésitez pas à consulter mon profil LinkedIn et à me contacter⬇️
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa-eddine-rahali/">
