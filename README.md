@@ -37,7 +37,7 @@ Pour réaliser ce projet, nous avons utilisé les technologies suivantes,
 
 ## **Portfolio :**
 
-Portoflio est un site personnel, est le reflet de mon parcours académique et professionnel . Afin de fournir une expérience utilisateur optimale, j'ai utilisé une combinaison de technologies pour son développement, telles que :
+Portoflio est un site personnel, est le reflet de mon parcours académique et professionnel. Afin de fournir une expérience utilisateur optimale, j'ai utilisé une combinaison de technologies pour son développement, telles que :
 
 - **HTML**
 - **CSS**
