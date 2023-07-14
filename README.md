@@ -20,11 +20,45 @@ Quoi de mieux que la pratique pour consolider ses connaissances et compétences 
 
 ## **Actiively :**
 
+L'application Actiively a été créée dans le cadre de la formation O'cklock par une équipe de 4 développeurs passionnés. Elle regroupe toutes les activités disponibles dans une zone géographique donnée. Grâce à cette application, les organismes peuvent facilement proposer leurs activités, tandis que les utilisateurs peuvent aisément trouver celles correspondant à leurs critères de recherche.
+
+Pour réaliser ce projet, nous avons utilisé les technologies suivantes,
+
+- **HTML**
+- **SCSS**
+- **Semantic UI**
+- **NodeJs**
+- **PSQL**
+- **React**
+
+##### Lien :
+
+[Actiively]()
+
 ## **Portfolio :**
 
-## **O'Dentiste :**
+Portoflio est un site personnel, est le reflet de mon parcours académique et professionnel . Afin de fournir une expérience utilisateur optimale, j'ai utilisé une combinaison de technologies pour son développement, telles que :
 
-En cours
+- **HTML**
+- **CSS**
+- **Tailwind**
+- **React**
+
+Mon portfolio est conçu pour mettre en valeur mes compétences, mes réalisations et mon expertise. Chaque section est soigneusement conçue pour vous offrir une vue d'ensemble de mon travail, de mes projets et de mes réalisations.
+
+##### Lien :
+
+[Portofolio](https://alaa-eddine-rahali-portfolio.netlify.app/)
+
+## **DENTISTE 4 ELLE&LUI :**
+
+le site du cabinet dentaire Dentiste 4 Elle&Lui est une plateforme imaginaire, spécialement conçue pour offrir une expérience conviviale et informative aux patients. L’objectif principal est de rester en contact avec les patients.
+
+J’ai développé ce site en utilisant **WordPress**, qui permet de créer une interface dynamique, intuitive et facile à naviguer.
+
+##### Lien :
+
+[DENTISTE 4 ELLE&LUI]()
 
 ## **O'Syndic :**
 
