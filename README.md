@@ -18,7 +18,7 @@
 
 Quoi de mieux que la pratique pour consolider ses connaissances et compétences ?
 
-## **Actiively :**
+## **1- Actiively :**
 
 L'application Actiively a été créée dans le cadre de la formation O'cklock par une équipe de 4 développeurs passionnés. Elle regroupe toutes les activités disponibles dans une zone géographique donnée. Grâce à cette application, les organismes peuvent facilement proposer leurs activités, tandis que les utilisateurs peuvent aisément trouver celles correspondant à leurs critères de recherche.
 
@@ -35,7 +35,7 @@ Pour réaliser ce projet, nous avons utilisé les technologies suivantes,
 
 [Actiively]()
 
-## **Portfolio :**
+## **2- Portfolio :**
 
 Portoflio est un site personnel, est le reflet de mon parcours académique et professionnel. Afin de fournir une expérience utilisateur optimale, j'ai utilisé une combinaison de technologies pour son développement, telles que :
 
@@ -50,17 +50,17 @@ Mon portfolio est conçu pour mettre en valeur mes compétences, mes réalisatio
 
 [Portofolio](https://alaa-eddine-rahali-portfolio.netlify.app/)
 
-## **DENTISTE 4 ELLE&LUI :**
+## **3- Whiteteeth :**
 
-le site du cabinet dentaire Dentiste 4 Elle&Lui est une plateforme imaginaire, spécialement conçue pour offrir une expérience conviviale et informative aux patients. L’objectif principal est de rester en contact avec les patients.
+le site du cabinet dentaire Whiteteeth est une plateforme imaginaire, spécialement conçue pour offrir une expérience conviviale et informative aux patients. L’objectif principal est de rester en contact avec les patients.
 
 J’ai développé ce site en utilisant **WordPress**, qui permet de créer une interface dynamique, intuitive et facile à naviguer.
 
 ##### Lien :
 
-[DENTISTE 4 ELLE&LUI]()
+[Whiteteeth]()
 
-## **O'Syndic :**
+## **4- O'Syndic :**
 
 O'Syndic est un projet personnel sur lequel je travaille actuellement. Il s’agit d’un site dédié aux syndics de copropriétés. J'ai développé ce site en utilisant **Vite.js**, La création de ce site est divisée en deux versions:
 
