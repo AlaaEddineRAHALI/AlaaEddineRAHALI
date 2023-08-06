@@ -27,13 +27,15 @@ Pour réaliser ce projet, nous avons utilisé les technologies suivantes,
 - **HTML**
 - **SCSS**
 - **Semantic UI**
-- **NodeJs**
-- **PSQL**
 - **React**
+- **NodeJs**
+- **Express**
+- **PostgreSQL**
+- **JWT**
 
 ##### Lien :
 
-[Actiively]()
+[Actiively](https://actiively.onrender.com/)
 
 ## **2- Portfolio :**
 
